@@ -1,0 +1,11 @@
+{
+  "AppName": "InstaBlue",
+  "FindDevices": "Find Devices",
+  "Open": "Open",
+  "MTUSize": "MTU Size",
+  "Connect": "Connect",
+  "Disconnect": "Disconnect",
+  "Service": "Service",
+  "Characteristic": "Characteristic",
+  "Descriptor": "Descriptor"
+}
