@@ -1,4 +1,5 @@
 const kAppName = 'AppName';
+const kAppSlogan = 'AppSlogan';
 const kFindDevices = 'FindDevices';
 const kOpen = 'Open';
 const kMTUSize = 'MTUSize';

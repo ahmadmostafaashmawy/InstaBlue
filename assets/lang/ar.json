@@ -1,5 +1,12 @@
 {
   "AppName": "InstaBlue",
+  "AppSlogan": "Connect to the World!..",
   "FindDevices": "Find Devices",
-  "Open": "Open"
+  "Open": "Open",
+  "MTUSize": "MTU Size",
+  "Connect": "Connect",
+  "Disconnect": "Disconnect",
+  "Service": "Service",
+  "Characteristic": "Characteristic",
+  "Descriptor": "Descriptor"
 }

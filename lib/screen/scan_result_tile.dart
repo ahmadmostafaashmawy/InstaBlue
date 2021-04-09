@@ -22,7 +22,7 @@ class ScanResultTile extends StatelessWidget {
         width: ScreenUtil().setWidth(100),
         child: AppButtonDisplay(
           translation: kConnect,
-          color: AppColor.StatusInProgress,
+          color: AppColor.DarkBlue,
           textColor: AppColor.White,
           onTap: (result.advertisementData.connectable) ? onTap : null,
         ),
